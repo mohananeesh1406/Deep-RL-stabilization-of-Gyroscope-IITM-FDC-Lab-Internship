@@ -69,9 +69,11 @@ Run the validation code to generate the output graphs in Simulink for the best a
 validationcode.m
 ```
 
-### Output graphs 
+### Output response plot
 
 ![Output Plot](<Plots/0-50 Agent 4850 ppo.png>)
+
+### Reward plot
 ![Reward Plot](<Plots/Screenshot 2025-06-16 112425.png>)
 
 ### Hardware Testing graphs
